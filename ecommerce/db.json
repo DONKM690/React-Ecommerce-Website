@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone Air",
+      "price": 70000,
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/61knPJtYRpL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S21",
+      "price": 50000,
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/81kfA-GtWwL._SX679_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Realme Narzo 50",
+      "price": 15000,
+      "category": "Mobile",
+      "image": "https://rukminim2.flixcart.com/image/312/312/l4a7pu80/screen-guard/edge-to-edge-tempered-glass/v/p/z/11dfnw-01-9h-original-imagf7p9s2jpvwwz.jpeg?q=70"
+    },
+    {
+      "id": "4",
+      "name": "Boat Headphones",
+      "price": 2000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61u1VALn6JL._SX679_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "HP Laptop",
+      "price": 55000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Smart Watch",
+      "price": 3000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61ZjlBOp+rL._SX679_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Nike Running Shoes",
+      "price": 4500,
+      "category": "Sports",
+      "image": "https://m.media-amazon.com/images/I/71oEKkghg-L._UY695_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Adidas T-Shirt",
+      "price": 1200,
+      "category": "Fashions",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvngrNPwGGJl56eihj4nKrFitr1MfBpGtoVao4yRz46kBEjVDXvcuBox8f-TXaZLzYA_0fY10evHK_CWbVHd6QG2LKCUa4"
+    },
+    {
+      "id": "9",
+      "name": "Bluetooth Speaker",
+      "price": 2500,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/81ocVi-mglL._SX679_.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Dell Monitor",
+      "price": 12000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/812imYJwVgL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Gaming Mouse",
+      "price": 800,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61LtuGzXeaL._SX679_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Noise Watch",
+      "price": 1500,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/41cSg6D19-L._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Track pants",
+      "price": 3500,
+      "category": "Fashions",
+      "image": "https://m.media-amazon.com/images/I/51G9QEm8UyL._SX679_.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Canon Camera",
+      "price": 45000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/914hFeTU2-L._SX679_.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Wireless Keyboard",
+      "price": 1800,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71fRP7KY9hL._SX679_.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Power Bank",
+      "price": 1200,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71lVwl3q-kL._SX679_.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Samsung Qled TV",
+      "price": 7000,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/51EtfseR5nL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Lakme Face Foundation",
+      "price": 599,
+      "category": "Beauty",
+      "image": "https://m.media-amazon.com/images/I/61tMI1JD0WL._AC_SX416_CB1169409_QL70_.jpg"
+    },
+    {
+      "id": "20",
+      "name": "soul tree",
+      "price": 399,
+      "category": "Beauty",
+      "image": "https://m.media-amazon.com/images/I/7143lqNH1pL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Lip Stick",
+      "price": 349,
+      "category": "Beauty",
+      "image": "https://m.media-amazon.com/images/I/51eeNaPLE7L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Nivea Body Lotion",
+      "price": 275,
+      "category": "Beauty",
+      "image": "https://m.media-amazon.com/images/I/61oRWpJlTVL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "23",
+      "name": "SS Cricket Bat",
+      "price": 1499,
+      "category": "Sports",
+      "image": "https://m.media-amazon.com/images/I/61Zb7p-wdYL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Adidas Football",
+      "price": 1299,
+      "category": "Sports",
+      "image": "https://m.media-amazon.com/images/I/51jiWTmANLL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Yonex Badminton Racket",
+      "price": 2499,
+      "category": "Sports",
+      "image": "https://m.media-amazon.com/images/I/61JaOAYztAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Levis Denim Jacket",
+      "price": 2999,
+      "category": "Fashions",
+      "image": "https://m.media-amazon.com/images/I/717thORwByL._SX679_.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Allen Solly Men's T-Shirt",
+      "price": 1799,
+      "category": "Fashions",
+      "image": "https://m.media-amazon.com/images/I/71eUwDk8z+L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Women's Handbag",
+      "price": 2199,
+      "category": "Fashions",
+      "image": "https://m.media-amazon.com/images/I/61jL7yTJObL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "29",
+      "name": "OnePlus 12",
+      "price": 64999,
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/71XNeka-BRL._SX679_.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Samsung Galaxy S25 Ultra",
+      "price": 109999,
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/71VnqxM-+AL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "name": "Nike Air Zoom",
+      "price": 300,
+      "category": "Sports",
+      "image": "https://m.media-amazon.com/images/I/71SlCa7O6LL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "i9NaJC2HJ3I"
+    },
+    {
+      "name": "Allen Solly Shirt ",
+      "price": 3500,
+      "category": "Fashions",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQi8Y-GMqPx4YbrKTqWA4QqKEQ3plr-PKUilUr0rKBOtH25q8-NXWQcNI81TCB1x56ueJRjaTLLxDObKAazM-IvzhITrYLj8nIwer-x5Id_6SgCNWirsSsU&usqp=CAc",
+      "id": "7OcBha79mPA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
