@@ -7,7 +7,7 @@ import {
   updateProduct
 } from "../services/api";
 
-import "./Admin.css";
+import "./admin.css";
 
 function Admin() {
 
