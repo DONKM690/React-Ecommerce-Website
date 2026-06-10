@@ -32,10 +32,13 @@ function ProductDetails() {
   // FETCH PRODUCT
 
     // FETCH PRODUCT
+// FETCH PRODUCT
+useEffect(() => {
+  fetchProduct();
+}, [id]);
+
 const fetchProduct = async () => {
-
   try {
-
     const res = await axios.get(
       `https://react-ecommerce-api-jtkw.onrender.com/products/${id}`
     );
@@ -43,11 +46,8 @@ const fetchProduct = async () => {
     setProduct(res.data);
 
   } catch (err) {
-
     console.log(err);
-
   }
-
 };
 
   // BUY NOW
