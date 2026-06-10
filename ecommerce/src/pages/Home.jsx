@@ -9,7 +9,7 @@ function Home({ search, category }) {
   const navigate = useNavigate();   // 🔥 ADD THIS
 
   useEffect(() => {
-    fetch("http://localhost:3002/products")
+  fetch("https://react-ecommerce-api-jtkw.onrender.com/products")
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);
