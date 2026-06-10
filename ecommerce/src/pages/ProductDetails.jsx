@@ -30,29 +30,25 @@ function ProductDetails() {
     useContext(AuthContext);
 
   // FETCH PRODUCT
-  useEffect(() => {
 
-    fetchProduct();
+    // FETCH PRODUCT
+const fetchProduct = async () => {
 
-  }, [id]);
+  try {
 
-  const fetchProduct = async () => {
+    const res = await axios.get(
+      `https://react-ecommerce-api-jtkw.onrender.com/products/${id}`
+    );
 
-    try {
+    setProduct(res.data);
 
-      const res = await axios.get(
-        `http://localhost:3002/products/${id}`
-      );
+  } catch (err) {
 
-      setProduct(res.data);
+    console.log(err);
 
-    } catch (err) {
+  }
 
-      console.log(err);
-
-    }
-
-  };
+};
 
   // BUY NOW
   const handleBuyNow = () => {
