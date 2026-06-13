@@ -3,19 +3,26 @@
 A responsive E-Commerce web application built using React.js. Users can browse products, search items, and filter products through a clean and user-friendly interface.
 
 ## Features
-
+- User Registration
+- User Login & Authentication
 - Product Listing
 - Product Search
 - Category Filtering
-- Responsive Design
+- Product Details Page
+- Shopping Cart
+- Dynamic Routing
 - API Integration
+- Responsive Design
+- Mobile-Friendly Interface
 
 ## Technologies Used
 
 - React.js
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
+- React Router DOM
+- REST API
 
 ## Live Demo
 
