@@ -22,7 +22,9 @@ A responsive E-Commerce web application built using React.js. Users can browse p
 - HTML5
 - CSS3
 - React Router DOM
+- JSON Server
 - REST API
+
 
 ## Live Demo
 
