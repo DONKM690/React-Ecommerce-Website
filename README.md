@@ -19,10 +19,13 @@ A responsive E-Commerce web application built using React.js. Users can browse p
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://react-ecommerce-website-j8cw3snxt-don-km-s-projects.vercel.app
 
 ## Author
 
 DON KM
 
 GitHub: https://github.com/DONKM690
+
+LinkedIn:
+www.linkedin.com/in/donkm
